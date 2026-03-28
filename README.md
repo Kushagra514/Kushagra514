@@ -27,15 +27,14 @@
 ### What I'm building right now
 ```python
 current_project = {
-    "name": "textsumm",
-    "description": "Production-grade Python CLI tool",
-    "stack": ["Poetry", "typer", "rich", "structlog", "pytest"],
+    "name": "sentiment-api",
+    "description": "Production-grade Sentiment Analysis REST API",
+    "stack": ["FastAPI", "scikit-learn", "Docker", "Render", "Poetry"],
     "features": [
-        "strict mypy type safety",
-        "97% test coverage",
-        "pre-commit hooks",
-        "GitHub Actions CI",
-        "published on PyPI"
+        "TF-IDF + Logistic Regression model",
+        "model loads once on startup",
+        "Dockerized and deployed on Render",
+        "live URL: sentiment-api-3oke.onrender.com"
     ],
     "status": "shipped ✓"
 }
