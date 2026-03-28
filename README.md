@@ -17,7 +17,7 @@
 ### About me
 
 - 🎓 Robotics & AI Engineering @ Dayananda Sagar College of Engineering
-- 🔨 Currently building production-grade Python tooling
+- 🔨 Currently building and deploying AI/ML APIs to production
 - 📅 Committed to shipping something to GitHub every single day
 - 🧠 Learning by doing — every concept becomes working code
 <br clear="right"/>
