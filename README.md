@@ -37,7 +37,7 @@ projects = [
         "name": "Resume-JD Matcher (Fine-tuned LLM)",
         "description": "QLoRA fine-tuned Phi-2 for resume vs job description analysis",
         "stack": ["Phi-2", "QLoRA", "PEFT", "TRL", "BERTScore"],
-        "highlights": ["BERTScore F1: 0.906", "400 synthetic training examples", "4-bit quantized, runs on 6GB VRAM"],
+        "highlights": ["BERTScore F1: 0.906", "400+ synthetic training examples", "4-bit quantized, runs on 6GB VRAM"],
         "status": "shipped ✓"
     },
     {
